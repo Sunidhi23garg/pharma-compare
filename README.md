@@ -43,7 +43,7 @@ Follow the steps below to set up the project locally on your machine.
 
 ### Steps 🔧
 1. Clone the repository:
-   https://github.com/Sunidhi23garg/pharmacompare.git
+   [https://github.com/Sunidhi23garg/pharmacompare.git](https://github.com/Sunidhi23garg/pharma-compare)
 2. cd pharmacompare
 3. npm install
 4. MONGO_URI=mongodb://localhost:27017/pharmacompare
