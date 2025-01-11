@@ -1,6 +1,6 @@
 # PharmaCompare - Medicine Price Comparison Platform 💊💰
 
-PharmaCompare is a web-based Medicine Price Comparison Platform built with the **MERN stack** (MongoDB, Express, React, Node.js). The platform allows users to search for medicines, compare prices across different pharmacies, and manage their favorite medicines for future reference. 🚀
+PharmaCompare is a web-based application designed to help users compare medicine prices across multiple pharmacies. Built using the MERN stack (MongoDB, Express.js, React, Node.js), this platform allows users to search for medicines, view prices from different pharmacies, and compare them to find the best deal. It also supports user authentication, allowing individuals to create accounts and save their favorite medicines for quick access in the future. 🚀
 
 ## 🎯 Project Description
 PharmaCompare helps users find the best prices for their medications by comparing prices across various pharmacies. The platform features search functionality for medicines, price comparison, and user authentication to save favorite medicines for quick future access.
